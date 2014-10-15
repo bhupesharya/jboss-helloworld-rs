@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 helloworld-rs: Helloworld Using JAX-RS (Java API for RESTful Web Services)
 ==========================================================================
 Author: Gustavo A. Brey, Gaston Coco  
@@ -186,3 +187,9 @@ _Note_: There is a limit to the number of applications you can deploy concurrent
 * To view the list of your OpenShift applications, type: `rhc domain show`
 * To delete an application from OpenShift, type the following, substituting the application name you want to delete: `rhc app-delete -a APPLICATION_NAME_TO_DELETE`
 
+=======
+jboss-helloworld-rs
+===================
+
+BPM Client wrapped in a custom REST interface
+>>>>>>> FETCH_HEAD
